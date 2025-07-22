@@ -54,10 +54,3 @@ This project analyzes crime data reported by the Los Angeles Police Department f
 -  Animated bar chart: Crime frequency over time by area
 
 ---
-
-##  How to Run
-
-1. Clone the repository or download the notebook and dataset.
-2. Ensure the following Python packages are installed:
-   ```bash
-   pip install pandas seaborn matplotlib plotly
