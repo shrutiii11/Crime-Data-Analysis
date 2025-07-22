@@ -16,7 +16,7 @@ This project analyzes crime data reported by the Los Angeles Police Department f
 ##  Dataset
 
 - **Name**: `Crime_Data_from_2020_to_Present.csv`
-- **Source**: LAPD Open Data Portal
+- **Source**: [LAPD Open Data Portal](https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD)
 - **Columns Used**:
   - `DATE OCC` (date of crime occurrence)
   - `Premis Desc` (description of crime location)
